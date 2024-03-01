@@ -7,3 +7,16 @@
 4. You have to put a commit message then close the file.
 5. Use `git push` to push the changes to Githubs servers.
 6. You should be done!
+
+# Commit Deleted Files With `git commit`
+1. Use `git pull` to get all files to make shure you are up to date.
+2. Delete a file
+3. Use `git commit` an area in the file opened should say:
+```
+# Changes to be committed:
+#	deleted:    <filename>
+```
+4. \<filename\> is the file.(duh)
+5. You have to put a commit message then close the file.
+6. Use `git push` to push the changes to Githubs servers.
+7. You should be done!
