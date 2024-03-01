@@ -1,4 +1,6 @@
 # test
 ```
-git clone
+git pull
+git add <filename>
+git commit
 ```
