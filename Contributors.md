@@ -1,3 +1,3 @@
 <!--nuh uh!-->
 # Contributors
-**Ryan Cunningham**\
+**Ryan Cunningham**
