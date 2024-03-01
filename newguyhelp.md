@@ -10,7 +10,7 @@
 
 # Commit Deleted Files With git Commands
 1. Use `git pull` to get all files to make shure you are up to date.
-2. Delete a file
+2. Use `git rm <filename>` where \<filename\> is the name of the file. ~~*duh*~~ *stop saying "duh"*
 3. Use `git commit` an area in the file opened should say:
 ```
 # Changes to be committed:
