@@ -1,6 +1,6 @@
 <div align="center">
 
-# idk what to put here
+This is my other account, just ignore it
 
 </div>
 
