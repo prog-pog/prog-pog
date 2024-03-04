@@ -16,7 +16,7 @@
 # Changes to be committed:
 #	deleted:    <filename>
 ```
-4. \<filename\> is the file. ~~*duh*~~ ***What Did I Say?***
+4. \<filename\> is the files name. ~~*duh*~~ ***What Did I Say?***
 5. You have to put a commit message then close the file.
 6. Use `git push` to push the changes to Githubs servers.
 7. You should be done!
